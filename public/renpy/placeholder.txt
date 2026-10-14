@@ -1,0 +1,1 @@
+this would contain the base files for the renpy game web compile,, game specific jsons and such would be in postgreSQL once i get there, and the game zips would be in a CDN
